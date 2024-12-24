@@ -29,6 +29,8 @@ It includes data augmentation and preprocessing, such as resizing, rotation, and
 
 ### **Easy to Use**
 Roboflow is easy to use, even for beginners. 
+### **modify dataset**
+It enables to create Dataset new version means we can modify dataset after creating it for example - if want to add image , change image train to test or vic versa 
 
 ### **Collaboration**
 Teams can collaborate in real-time by inviting others to label images and videos, improving efficiency.
