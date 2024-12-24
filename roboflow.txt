@@ -1,0 +1,9 @@
+feature: 
+- it can used to label the image and videos 
+- it can create dataset with the format needed 
+- it also provide sugesstion of some image which is similar to your dataset ; // suggestion images can be added into the dataset ; 
+-we can also perform auto labelling 
+- it also allow to multiple people work together for labelling by just inviting them through email 
+- while generating dataset we can select appropriate ratio for train , test ,valid data ; 
+- it also has feature to perfrom augmentation ( transform images ) and  preprocessing 
+
